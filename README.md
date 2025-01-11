@@ -1,0 +1,1 @@
+This is a simple spring based CRUD Api system that saves, deletes, fetches and updates running time data.
